@@ -1,0 +1,10 @@
+# List of addresses
+http://www.tldp.org
+https://en.wikipedia.org/wiki/Linux
+https://www.gnu.org/software/bash/
+
+# test-urls.
+# the first url always changes, to test that we can handle the case
+https://www.timeanddate.com/worldclock/uk
+# this obviously is not a correct url, we use it to test the case of failed wget
+no-such-url
